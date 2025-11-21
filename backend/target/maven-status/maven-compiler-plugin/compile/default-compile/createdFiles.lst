@@ -1,0 +1,9 @@
+com/projeto/academico/Application.class
+com/projeto/academico/entity/Aluno.class
+com/projeto/academico/config/SecurityConfig.class
+com/projeto/academico/controller/AlunoController.class
+com/projeto/academico/controller/CursoController.class
+com/projeto/academico/service/SeedDataLoader.class
+com/projeto/academico/repository/CursoRepository.class
+com/projeto/academico/entity/Curso.class
+com/projeto/academico/repository/AlunoRepository.class
